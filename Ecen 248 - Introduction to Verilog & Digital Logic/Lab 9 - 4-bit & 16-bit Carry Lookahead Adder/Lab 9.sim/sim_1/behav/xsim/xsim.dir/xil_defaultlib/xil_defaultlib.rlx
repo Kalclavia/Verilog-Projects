@@ -1,0 +1,7 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/Lab 9.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_4bit.v,1680706668,verilog,,/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_4bit_tb.v,,carry_lookahead_4bit;carry_lookahead_unit;generate_propagate_unit;summation_unit,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_4bit_tb.v,1680706561,verilog,,,,cla_4bit_tb,,,,,,,,

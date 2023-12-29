@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module generate_propagate_unit
+INFO: [VRFC 10-311] analyzing module carry_lookahead_unit
+INFO: [VRFC 10-311] analyzing module summation_unit
+INFO: [VRFC 10-311] analyzing module carry_lookahead_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_4bit_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cla_4bit_tb

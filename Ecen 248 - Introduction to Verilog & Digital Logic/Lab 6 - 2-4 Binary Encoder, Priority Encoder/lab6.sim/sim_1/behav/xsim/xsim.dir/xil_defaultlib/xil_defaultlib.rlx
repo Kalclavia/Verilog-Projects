@@ -1,0 +1,17 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/ugrads/a/abhi.bhattacharyya/lab6/four_bit_mux_behavioral.v,1678291074,verilog,,/home/ugrads/a/abhi.bhattacharyya/lab6/four_bit_mux_tb.v,,four_bit_mux,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/four_bit_mux_tb.v,1629941138,verilog,,,,four_bit_mux_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/four_two_encoder.v,1678293192,verilog,,/home/ugrads/a/abhi.bhattacharyya/lab6/four_two_encoder_tb.v,,four_two_encoder,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/four_two_encoder_tb.v,1629941138,verilog,,,,four_two_encoder_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/lab6.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/mux_4bit_4to1.v,1678292702,verilog,,/home/ugrads/a/abhi.bhattacharyya/lab6/mux_4bit_4to1_tb.v,,mux_4bit_4to1,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/mux_4bit_4to1_tb.v,1629941138,verilog,,,,mux_4bit_4to1_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/priority_encoder.v,1678293241,verilog,,/home/ugrads/a/abhi.bhattacharyya/lab6/priority_encoder_tb.v,,priority_encoder,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/priority_encoder_tb.v,1629941138,verilog,,,,priority_encoder_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/two_four_decoder.v,1678293155,verilog,,/home/ugrads/a/abhi.bhattacharyya/lab6/two_four_decoder_tb.v,,two_four_decoder,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/two_four_decoder_tb.v,1629941138,verilog,,,,two_four_decoder_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/two_one_mux_behavioral.v,1678290073,verilog,,/home/ugrads/a/abhi.bhattacharyya/lab6/two_one_mux_tb.v,,two_one_mux,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/lab6/two_one_mux_tb.v,1629941138,verilog,,,,two_one_mux_tb,,,,,,,,

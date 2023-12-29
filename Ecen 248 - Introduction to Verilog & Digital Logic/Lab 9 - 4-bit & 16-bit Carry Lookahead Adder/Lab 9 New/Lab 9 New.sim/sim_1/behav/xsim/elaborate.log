@@ -1,0 +1,21 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /opt/coe/Xilinx/Vivado/2018.3/bin/unwrapped/lnx64.o/xelab -wto bf52ff764dd7455fa7dd1c642b3d1ffa --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot cla_16bit_tb_behav xil_defaultlib.cla_16bit_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 4 for port 'G' [/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_16bit.v:30]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 4 for port 'S' [/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_16bit.v:75]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 4 for port 'P' [/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_16bit.v:76]
+WARNING: [VRFC 10-3091] actual bit length 16 differs from formal bit length 4 for port 'C' [/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 9/cla_16bit.v:77]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.generate_propagate_unit
+Compiling module xil_defaultlib.block_carry_lookahead_unit
+Compiling module xil_defaultlib.carry_lookahead_unit
+Compiling module xil_defaultlib.summation_unit
+Compiling module xil_defaultlib.carry_lookahead_16bit
+Compiling module xil_defaultlib.cla_16bit_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot cla_16bit_tb_behav

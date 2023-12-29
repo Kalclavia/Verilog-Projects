@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/a/abhi.bhattacharyya/lab6/priority_encoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priority_encoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/a/abhi.bhattacharyya/lab6/priority_encoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module priority_encoder_tb

@@ -1,0 +1,15 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/4b_two_one_mux.v,1677687857,verilog,,/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/add_sub.v,,four_bit_mux,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/Lab 5.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/add_sub.v,1678298263,verilog,,/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/four_bit_alu.v,,add_sub,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/add_sub_tb.v,1629941138,verilog,,,,add_sub_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/four_bit_alu.v,1678300746,verilog,,/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/full_adder.v,,four_bit_alu,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/four_bit_alu_tb.v,1629941138,verilog,,,,four_bit_alu_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/four_bit_mux_tb.v,1629941138,verilog,,,,four_bit_mux_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/full_adder.v,1678297450,verilog,,/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/two_one_mux.v,,full_adder,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/full_adder_tb.v,1629941138,verilog,,,,full_adder_tb,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/two_one_mux.v,1677682956,verilog,,/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/four_bit_alu_tb.v,,two_one_mux,,,,,,,,
+/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/two_one_mux_tb.v,1677683470,verilog,,,,two_one_mux_tb,,,,,,,,

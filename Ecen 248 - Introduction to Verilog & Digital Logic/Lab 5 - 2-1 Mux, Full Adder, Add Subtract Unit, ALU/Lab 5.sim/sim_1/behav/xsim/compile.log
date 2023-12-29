@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/four_bit_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_bit_alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/ugrads/a/abhi.bhattacharyya/ecen248/Lab 5/four_bit_alu_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_bit_alu_tb
